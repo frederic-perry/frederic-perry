@@ -89,14 +89,11 @@ Projets :
 <h3 align="left">Contact</h3>
 <p align="left">
 <a href="https://twitter.com/fred_reggaeluv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fred_reggaeluv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/frederic-perry-292361308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frederic-perry-292361308" height="30" width="40" /></a>
-  
-<a href="https://fb.com/r3ggaelover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r3ggaelover" height="30" width="40" /></a>
-
-<a href="https://instagram.com/fred_reggaelover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fred_reggaelover" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/@reggaelover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@reggaelover" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/frederic-perry-292361308" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frederic-perry-292361308" height="30" width="40" /></a>
+  <a href="https://fb.com/r3ggaelover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r3ggaelover" height="30" width="40" /></a><a href="https://instagram.com/fred_reggaelover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fred_reggaelover" height="30" width="40" /></a><a href="https://www.youtube.com/c/@reggaelover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@reggaelover" height="30" width="40" /></a>
 </p>
+
+
 
 
 
