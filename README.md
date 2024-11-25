@@ -16,15 +16,14 @@ Projets :
 
 
 - Language Python - Mario Zombie Python
-- 
-![screen](https://github.com/user-attachments/assets/9c66380d-3cf9-4c3a-8a68-dd64fceeb527)
+
+![screen](https://github.com/user-attachments/assets/56d07a02-de37-4ebf-b780-8fab9979a0dc)
 
 
 
 - Language HTML - Fan Sites Footballeur
 
-![FanSite](https://github.com/user-attachments/assets/ba97759d-0f76-4fe5-8156-49ddc1991a36)
-
+![FanSite](https://github.com/user-attachments/assets/d4aec60f-f8ce-4081-ba27-eb0a5a2df1ab)
 
 
 
