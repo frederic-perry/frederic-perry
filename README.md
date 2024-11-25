@@ -23,8 +23,7 @@ Projets :
 
 - Language HTML - Fan Sites Footballeur
 
-![FanSite](https://github.com/user-attachments/assets/c8eca077-7057-42b4-8267-0bd7513ac6b5){width=350 height=350}
-
+![FanSite](https://github.com/user-attachments/assets/ba97759d-0f76-4fe5-8156-49ddc1991a36)
 
 
 
