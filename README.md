@@ -11,6 +11,7 @@ Ayant debuter l'informatique sur atari xl, ensuite atari st et amiga dans les an
 J'ai developpé des compétences , une expertise dans le domaine de l'informatique, tels que : 
 
 installation de postes, parametrages machines linux debian, ubuntu, machines windows : 98, xp , 2000, 7,10,11, windows serveur
+parametrages GLFTPD, transfert et parametrages fxp
 
 Au niveau configuration , je maitrise l'AD, les parametrages DNS, DHCP, la mise en place et deploiement de systeme d'operations
 
@@ -18,9 +19,9 @@ Au niveau configuration , je maitrise l'AD, les parametrages DNS, DHCP, la mise 
 <h3 align="center"></h3>
 
 
-J'ai des certifications Cisco Packet Tracer, Linux Essentiels
+J'ai validé des certifications Cisco Packet Tracer, Linux Essentiels
 
-Je suis a l'aise sur les configuraitons routeurs Cisco, l'installation de switches , de postes en réseaux.
+Je suis a l'aise sur les configurations routeurs Cisco, l'installation de switches , de postes en réseaux.
 
 
 
@@ -73,6 +74,17 @@ Projets :
 - J'ecris des articles , reportages sur [https://www.worldareggae.com](https://www.worldareggae.com)
 
 - Email de contact **frederic.perry@laplateforme.io**
+
+<h3 align="left">Certifications : </h3>
+
+![tai](https://github.com/user-attachments/assets/acfa6df8-287f-415a-b4dd-20fa6c60d04e)
+
+![tai 2 jpg](https://github.com/user-attachments/assets/d26a69ee-f0a9-4d2a-a782-7bf7847e58f2)
+
+![tai 3](https://github.com/user-attachments/assets/5e7c2b6e-2a62-4fa6-b00d-3bb5e761db2c)
+
+![image](https://github.com/user-attachments/assets/aac1bfc3-e6e2-4d1d-82f0-9ea6ca2d9de9)
+
 
 <h3 align="left">Contact</h3>
 <p align="left">
